@@ -56,7 +56,7 @@ L'analyse non-supervisée a révélé **9 archétypes de milliardaires**, prouva
 
 1.  Cloner le projet :
     ```bash
-    git clone [https://github.com/sterenng/billionaires-analysis.git](https://github.com/sterenng/billionaires-project.git)
+    git clone [https://github.com/sterenng/billionaires-project.git](https://github.com/sterenng/billionaires-project.git)
     ```
 2.  Installer les dépendances :
     ```bash
