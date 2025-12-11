@@ -64,7 +64,7 @@ L'analyse non-supervisée a révélé **9 archétypes de milliardaires**, prouva
     ```
 3.  Lancer le notebook d'exploration pour générer le fichier nettoyé, puis le notebook ML.
 
-## 🔮 Pistes d'Amélioration
+## Pistes d'Amélioration
 
 * **Feature Engineering NLP :** scraper et analyser les biographies textuelles pour détecter des mots-clés ("founded", "inherited") afin de mieux séparer les profils mixtes occidentaux.
 * **SMOTE :** utiliser la génération de données synthétiques pour équilibrer davantage les classes lors de l'entraînement.
